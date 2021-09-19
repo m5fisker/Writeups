@@ -97,7 +97,7 @@ close(STDOUT);
 close(STDERR)
 ```
 
-There is an interesting section containing uuencode and a string ```F9FQA9WLY8C5C-#,Q,V0Q,CDU.#,U-&)E-C(X-&9C9#8S9&0R-GT ```
+There is an interesting section containing *uuencode* and a string ```F9FQA9WLY8C5C-#,Q,V0Q,CDU.#,U-&)E-C(X-&9C9#8S9&0R-GT ```
 
 ## Flag
 
