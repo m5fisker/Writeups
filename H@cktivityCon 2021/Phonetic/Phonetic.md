@@ -64,6 +64,8 @@ echo "$deobsucatedResult";
 
 I piped the result out into [phonetic_stage2.php](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage2.php)
 
+The malware appears to be capable of stealing passwords and acting as a webshell.
+
 Reviewing the code I found two interesting parts 
 
 ```
