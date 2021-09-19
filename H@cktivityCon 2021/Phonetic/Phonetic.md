@@ -19,7 +19,7 @@ phonetic: PHP script, ASCII text, with very long lines
 ```
 Viewing the code, we see that it is obuscated and hard to read . So I cleaned up the code and tried to make sense of the code ([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
 
-After deobsucating the code ,I found some interesting sections
+After deobsucating the code , I found some interesting sections
 ```
 // Function to perform certain actions and retuns a string value
  function firstFunction($input1, $input2 = '')
