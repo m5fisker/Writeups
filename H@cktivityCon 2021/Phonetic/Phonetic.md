@@ -17,7 +17,7 @@ Firstly, identifying the file type , using the file command
 ```
 phonetic: PHP script, ASCII text, with very long lines
 ```
-Viewing the code we see obsucated version of the code. I firstly, cleaned it up and tried to make sense of the code ([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
+Viewing the code, we see that it is obuscated and hard to read . I firstly, cleaned it up and tried to make sense of the code ([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
 
 After deobsucating the code , these are some interesting sections
 ```
