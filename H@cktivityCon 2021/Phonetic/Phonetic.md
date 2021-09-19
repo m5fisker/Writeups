@@ -17,7 +17,7 @@ Firstly, identifying the file type , using the file command
 ```
 phonetic: PHP script, ASCII text, with very long lines
 ```
-Viewing the code we see obsucated version of the code. I firstly, cleaned it up and tried to make sense of the code
+Viewing the code we see obsucated version of the code. I firstly, cleaned it up and tried to make sense of the code ([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
 
 After deobsucating the code , these are some interesting sections
 ```
@@ -62,7 +62,7 @@ $deobsucatedResult = $emptyString1( firstFunction($emptyString1($bigBlob), "tVEw
 echo "$deobsucatedResult";
 ```
 
-I piped the result out into phonetic_stage2.php
+I piped the result out into [phonetic_stage2.php](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage2.php)
 
 Reviewing the code I found two interesting parts 
 
