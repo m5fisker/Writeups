@@ -13,13 +13,16 @@ It's easy to find the flag... just sound it out!
 
 ## Solution
 
-Firstly, identifying the file type , using the file command
+Just double confirming the file type with the *file* command. Confirms that it is a *PHP script*.
 ```
 phonetic: PHP script, ASCII text, with very long lines
 ```
-Viewing the code, we see that it is obuscated and hard to read . So I cleaned up the code and tried to make sense of the code ([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
+#### Stage 1 Deobfuscating the code
+Viewing the code, we see that it is obuscated and hard to read . So I cleaned up the code and tried to understand it.([Cleaned Code](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage1_cleaned.php))
 
-After deobsucating the code , I found some interesting sections
+After deobsucating the code and analyzing the code, there were two interesting sections.
+
+Section one is the main loop used to deobsucate the large string present in the *php script*.
 ```
 // Function to perform certain actions and retuns a string value
  function firstFunction($input1, $input2 = '')
@@ -36,7 +39,7 @@ After deobsucating the code , I found some interesting sections
  		return $secondValue; 
  }
 ```
-
+Section two contains *foreach* loops for retreving certain keywords and an *strrev* function used for retrieving another keyword.
 ```
 //Looping with a concatenation and adding it to emptyString1
 foreach([24,4,26,31,29,2,37,20,31,6,1,20,31] as $k){
@@ -61,6 +64,8 @@ Finally at the end section i modified the code to display the result instead of 
 $deobsucatedResult = $emptyString1( firstFunction($emptyString1($bigBlob), "tVEwfwrN302"));
 echo "$deobsucatedResult";
 ```
+
+#### Stage 2 reviewing the malware
 
 I piped the result out into [phonetic_stage2.php](https://github.com/m5fisker/Writeups/blob/main/H%40cktivityCon%202021/Phonetic/phonetic_stage2.php)
 
