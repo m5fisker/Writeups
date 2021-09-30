@@ -25,6 +25,8 @@ In the next step, I tired to think of other places that could be the "Heart of t
 Canberra is a ciruclar esque capital , with the parliment house and other federal buildings within the ceter. Now viewing in satellite view , we first scoured through the first circle looking at a mix of street view and statellite image, but this ended up giving us no results .
 
 Scouring through the the outerloop we foud an interesting circle in the street view , which was in the middle of the bush.
+
+
 ![image](https://user-images.githubusercontent.com/17501137/135414445-2a1b3a96-82b0-4a04-8194-8b8f6343abb7.png)
 
 
