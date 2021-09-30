@@ -1,4 +1,4 @@
-# DUCTF 2021 - Get over it!
+# TamilCTF 2021 - Dark Night
 
 ![date](https://img.shields.io/badge/date-28.09.2021-brightgreen.svg)  
 ![solved in time of CTF](https://img.shields.io/badge/solved-in%20time%20of%20CTF-brightgreen.svg)  
