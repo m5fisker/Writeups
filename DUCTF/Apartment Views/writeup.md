@@ -34,6 +34,9 @@ Checking Londsdale St we can see that it has the correct view angle but is one s
 
 Moving to the next street, at Little Londsdale St we can find the yellow building from the frame and street pathway below. The picture appears to have been taken from ELM Tower. 
 
+![image](https://user-images.githubusercontent.com/17501137/135405274-1f04cfa0-d127-476e-9264-76ea24fe307a.png)
+
+
 
   
 ## Flag
