@@ -18,7 +18,7 @@ Flag format: DUCTF{street_name}
 
 ## Solution
 
-Since a username is provided in this challenge. My first goal was to find accounts related to this account. Utilizing *spiderfoot* , I created a new scan for the user.
+Since a username is provided in this challenge. My first goal was to find accounts related to this username. Utilizing *spiderfoot* , I created a new scan for the user.
 
 The following accounts were displayed in the result and linked to the same person.
 
