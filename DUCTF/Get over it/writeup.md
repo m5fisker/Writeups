@@ -18,7 +18,7 @@ What is the name of it and the length of its main span to the nearest metre?
 
 Since an image is provided for this challenge. I first attempted a reverse image search , but unfortunately no results where found . The next pattern I searched for was a suspension cable bridge in australia, as the challenge image showcased that it was suspension cable bridge and the competition was held in australia. 
 
-Scrolling through the images , I stumbled across an image that looks very similar to the one provided and found that it was Elearnor Schonell Bridge. 
+Scrolling through the images , I stumbled across an image that looks very similar to the one provided and found that it was Elearnor Schonell Bridge (Bottom right of the image).
 
 ![](search_screenshot.PNG)
 
