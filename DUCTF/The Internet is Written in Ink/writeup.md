@@ -17,7 +17,7 @@ Ducky wouldn't screw up twice would he?
 
 This was a pretty straightforward challenge. The hint given was the *"CTF Clock"* which refers to CTFTime.com and *"four hundred and four"* as error 404 page. 
 
-Now scrubbing through the CTFTime link for the event in Wayback machine . We find that there was a capture taken on March 14 which contains the flag [link](https://web.archive.org/web/*/http://ctftime.org/event/1312).
+Now scrubbing through the CTFTime link for the event in Wayback machine . We find that there was a [capture](https://web.archive.org/web/*/http://ctftime.org/event/1312) taken on March 14 which contains the flag .
 
 
 ## Flag
