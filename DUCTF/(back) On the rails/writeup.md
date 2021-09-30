@@ -27,7 +27,7 @@ First, I tried to revese image search the image . But I was unable to find any r
 
 Now with these keywords , I searched in google for "graffiti bush abandoned train station australia"
 
-The second link in the google image search led to a youtube video, which pretty much matched the image location. Looking through the description there is a [wiki link](https://en.wikipedia.org/wiki/General_Motors_railway_stationGeneral Motors) provided. Double confirming with the images in the wikipedia page , we know that the train station is the General Motors station
+The second link in the google image search led to a youtube video, which pretty much matched the image location. Looking through the description there is a [wiki link](https://en.wikipedia.org/wiki/General_Motors_railway_station) provided. Double confirming with the images in the wikipedia page , we know that the train station is the General Motors station
 ## Flag
   
 Adding the train station we now have the flag 
