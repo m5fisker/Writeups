@@ -34,7 +34,7 @@ Utlizing this information , I performed another scan on *spiderfoot* with user a
 - https://github.com/alexandros-elgato
 - https://www.reddit.com/user/alexandros-elgato
 
-Viewing the github page, there only seems to be one repository called Hello-World and not much information further. Then looking at reddit we see that the user has made many posts. I one of the posts made contained a screenshot of his kali-vm with many tabs open. At the bottom right of the image , the user seems to have made an arp request , which reveals his MAC address(BSSID) - **DE:73:2C:6C:1B:C1**. 
+Viewing the github page, there only seems to be one repository called Hello-World and not much information further. Then looking at reddit we see that the user has made many posts. I one of the posts made contained a screenshot of his kali-vm with many tabs open. At the bottom right of the image , the user seems to have made an arp request with -a, which reveals his MAC address(BSSID) - **DE:73:2C:6C:1B:C1**. 
 
 ![image](https://i.redd.it/d8tjy7453om71.png)
 
