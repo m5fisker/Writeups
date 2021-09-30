@@ -22,7 +22,18 @@ Reading the description of the heart of the nations challenge. I initally assume
 
 In the next step, I tired to think of other places that could be the "Heart of the nation" . This led me to the nations capital which was Canberra . Viewing images of Canberra it tended to have similar bush landscape to that of the image.
 
-Canberra is a ciruclar esque capital , with the parliment house and other federal buildings within the ceter. Now viewing in satellite view , we first scoured through the first circle looking at a mix of street view and statellite image, but this ended up giving us no results . Scouring through the the outerloop we foud an interesting circle in the street view , which was in the middle of the bush. Viewing the image at this view , we get the spot showcased in the challenge image. The coordinates for this were  *"-35.30692439897341, 149.1207011429781"*.
+Canberra is a ciruclar esque capital , with the parliment house and other federal buildings within the ceter. Now viewing in satellite view , we first scoured through the first circle looking at a mix of street view and statellite image, but this ended up giving us no results .
+
+Scouring through the the outerloop we foud an interesting circle in the street view , which was in the middle of the bush.
+![image](https://user-images.githubusercontent.com/17501137/135414445-2a1b3a96-82b0-4a04-8194-8b8f6343abb7.png)
+
+
+Viewing the image at this view , we get the spot showcased in the challenge image.
+
+![image](https://user-images.githubusercontent.com/17501137/135414528-38210fc5-9804-4ebe-bbd6-4845b5c0358f.png)
+
+
+The coordinates for this were  *"-35.30692439897341, 149.1207011429781"*.
 
   
 ## Flag
