@@ -24,11 +24,11 @@ Flag format is DUCTF{+61<number>}
 
   The number can be found using the whois lookup command on the domain *646f776e756e646572.xyz* .
   
-  After running the command the phone number: **+61.420091337**
+  After running the command, details of registar and their phone number: **+61.420091337** is displayed.
   
 ## Flag
   
- ''' DUCTF{+61420091337} '''
+``` DUCTF{+61420091337} ```
   
   
   
