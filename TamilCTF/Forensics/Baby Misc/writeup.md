@@ -2,7 +2,7 @@
 
 ![date](https://img.shields.io/badge/date-25.09.2021-brightgreen.svg)  
 ![solved in time of CTF](https://img.shields.io/badge/solved-in%20time%20of%20CTF-brightgreen.svg)  
-![OSINT category](https://img.shields.io/badge/category-osint-lightgrey.svg)
+![Forensics category](https://img.shields.io/badge/category-forensics-lightgrey.svg)
 ![score](https://img.shields.io/badge/score-100-blue.svg)
 ![solves](https://img.shields.io/badge/solves-663-brightgreen.svg)
 
